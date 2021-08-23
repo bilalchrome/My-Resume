@@ -3,6 +3,7 @@
 \usepackage[left=0.6in,top=0.6in,right=0.6in,bottom=0.6in]{geometry}
 \usepackage[parfill]{parskip}
 \usepackage{array}
+\usepackage{hyperref}
 \usepackage{ifthen}
 \usepackage{graphicx}
 \pagestyle{empty}
